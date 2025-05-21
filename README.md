@@ -30,12 +30,17 @@ cd article-generator
 ```
 
 ### 2. Create and Activate a Virtual Environment (Optional but Recommended)
+
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
 ### 3. Install Required Dependencies
-pip install -r requirements.txt
 
+```bash
+pip install -r requirements.txt
+```
 ### 4. Set Up Environment Variables
 Create a .env file in the project root with the following content:
 
