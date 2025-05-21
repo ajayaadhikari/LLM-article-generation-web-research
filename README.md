@@ -42,10 +42,14 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ### 4. Set Up Environment Variables
-Create a .env file in the project root with the following content:
 
+Create a .env file in the project root with the following content:
+```bash
 OPENAI_API_KEY=your_openai_api_key
 SERPAPI_API_KEY=your_serpapi_api_key
+```
 
 ### 5. Run the app
+```bash
 streamlit run article_generator.py
+```
