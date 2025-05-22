@@ -2,6 +2,8 @@
 
 This is a Streamlit-based web application that generates informative articles on user-specified topics by performing real-time web searches and summarizing relevant content using OpenAI's GPT-4.
 
+A blog about this project with in depth explanation can be found here: [Wordpress Article](https://adhikariajaya.wordpress.com/2025/05/22/beginner-friendly-web-research-article-generator-based-on-llms-and-real-time-data/)
+
 Here is how the end application will look like:
 ![App screenshot](app_screenshot.png)
 
